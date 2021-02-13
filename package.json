@@ -1,0 +1,26 @@
+{
+  "name": "redditsonidbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martijnmichel/RedditSonidBot.git"
+  },
+  "author": "Martijn Michel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martijnmichel/RedditSonidBot/issues"
+  },
+  "homepage": "https://github.com/martijnmichel/RedditSonidBot#readme",
+  "dependencies": {
+    "@tonaljs/tonal": "^4.6.0",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.20",
+    "snoostorm": "^1.5.2",
+    "snoowrap": "^1.22.0"
+  }
+}
